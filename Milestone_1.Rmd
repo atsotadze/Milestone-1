@@ -1,0 +1,12 @@
+---
+title: "Milestone_1"
+author: "Alex Tsotadze"
+date: "2/11/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I took the fall semester off to continue working with a company called Ajax Health. Ajax is a holding company who provides both capital and operational support to healthcare technologies. One therapeutic area that I did a lot of work in was Electrophysiology. Since starting this class, I have wanted to focus my final project on conducting in depth research into Atrial Fibrillation, attempting to indicate some genetic predispositions or lifestyle choices that correlate to paroxysmal afib. However, I anticipate running into issues with accessing patient data and therfore, I am ready to adjust the topic to broader research into industry investment trends as well as collecting data on public companies and their earnings calls, acquisitions and partnerships and have it serve as a dynamic document that can be updated to find helpful data about healthcare companies in different therapeutic areas. 
